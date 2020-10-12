@@ -3,4 +3,4 @@
 
  Bot heroku url : https://covid-status-bot.herokuapp.com/
 
- Bot telegram url : t.me/Covid19StatusBot
+ Bot telegram url : https://t.me/Covid19StatusBot
